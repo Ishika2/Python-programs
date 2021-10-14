@@ -1,2 +1,1 @@
-# website2
-This is remote repo
+This repo contains some basic programs in python language.
